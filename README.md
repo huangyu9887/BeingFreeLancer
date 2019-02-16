@@ -6,7 +6,7 @@
 
 ## 资源
 
-
+* [mezod/awesome-indie: Resources for independent developers to make money](https://github.com/mezod/awesome-indie)
 
 
 ## 自由职业者分类
@@ -27,6 +27,9 @@
 
 ## 核心技能
 
+
+
+## 参考文献
 
 
 
