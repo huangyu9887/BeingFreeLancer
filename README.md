@@ -42,6 +42,7 @@
    > 我们的祖先们从树上下来以后，游牧就是最初的生活形态。
    > 两代人以后——对于技术的发展而言就是很久很久以后，也许游牧真的会变成社会的主流形态。所有迹象都显示出向这个方向的生长是可能的。技术对移动办公的支持、中心城市高昂的生活成本、传统公司这种组织形态的慢慢失效、共享办公的越来越普遍、越来越多的人开始关心社区，都是推动力量
  * [Remote Work & Digital Nomads Study 2018 - The Anywhere Workers](https://www.and.co/anywhere-workers)
+ * [Nomad List - Best Cities to Live and Work Remotely for Digital Nomads](https://nomadlist.com/)
  
 
 
