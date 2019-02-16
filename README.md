@@ -9,6 +9,7 @@
 * [mezod/awesome-indie: Resources for independent developers to make money](https://github.com/mezod/awesome-indie)
 * [Frie_9780307463746_4p_all_r1.f.qxp](https://s3.amazonaws.com/37assets/svn/Rework-by-Jason-Fried-and-David-Heinemeier-Hansson-Excerpts.pdf)
 * [greatghoul/remote-working: 收集整理远程工作相关的资料](https://github.com/greatghoul/remote-working)
+  * [自由工作周刊第1期：「未来已经在那儿了，只不过若隐若现而已」 - 知乎](https://zhuanlan.zhihu.com/p/42643528)
 
 
 ## 自由职业者分类
