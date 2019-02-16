@@ -8,6 +8,8 @@
 
 * [如何看待“零工经济” - 中国社会科学院经济研究所](http://ie.cass.cn/academics/economic_trends/201712/t20171204_3765916.html)
 
+> 在同一家公司朝九晚五按时上班，沿着职业阶梯慢慢向上爬，这曾是公认的事业发展路径。而近几年越来越多的年轻人厌倦了办公室的束缚，希望自主分配时间，加入了自由职业者的行列。
+
 ## 资源
 
 * [mezod/awesome-indie: Resources for independent developers to make money](https://github.com/mezod/awesome-indie)
