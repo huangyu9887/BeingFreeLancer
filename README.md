@@ -7,6 +7,7 @@
 ## 资源
 
 * [mezod/awesome-indie: Resources for independent developers to make money](https://github.com/mezod/awesome-indie)
+* [Frie_9780307463746_4p_all_r1.f.qxp](https://s3.amazonaws.com/37assets/svn/Rework-by-Jason-Fried-and-David-Heinemeier-Hansson-Excerpts.pdf)
 
 
 ## 自由职业者分类
