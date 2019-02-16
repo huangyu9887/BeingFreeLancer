@@ -28,6 +28,9 @@
 ## 核心技能
 
 
+## 软件
+
+* [Use Asana to manage your team’s work, projects, & tasks online · Asana](https://asana.com/)
 
 ## 意象先行
 
