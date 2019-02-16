@@ -11,6 +11,8 @@
 * [greatghoul/remote-working: 收集整理远程工作相关的资料](https://github.com/greatghoul/remote-working)
   * [自由工作周刊第1期：「未来已经在那儿了，只不过若隐若现而已」 - 知乎](https://zhuanlan.zhihu.com/p/42643528)
   * [自由工作 - 知乎](https://zhuanlan.zhihu.com/cloudwork)
+  * [在德国做自由职业者，自由又多金 - 知乎](https://zhuanlan.zhihu.com/p/45501417)
+    >《自由职业者Kompass 2018》报告表明：自由职业者比较独立，可以自由安排时间，在选择工作时也是很自由的。
 
 
 ## 自由职业者分类
