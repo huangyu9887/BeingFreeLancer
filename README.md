@@ -37,10 +37,11 @@
 
 亚马逊、希尔顿、戴尔等国际知名公司在很多岗位上早已开启远程办公模式，而国内企业对远程办公更多还是保守的态度。互联网技术的普及与发展促成远程办公的技术手段齐备，而还没有升级换代的往往是人们的思想。
 
- * [哈佛商业评论](https://mp.weixin.qq.com/s?__biz=MjM5NzY4MzQyMQ==&mid=2650083419&idx=1&sn=9f8271a10e5c1fdecd39d5a0f1ab1ccf)
- * [两代人以后，游牧也许会变成社会的主流形态 - 中国新闻周刊网](http://www.inewsweek.cn/viewpoint/2018-11-13/4329.shtml)
+   * [哈佛商业评论](https://mp.weixin.qq.com/s?__biz=MjM5NzY4MzQyMQ==&mid=2650083419&idx=1&sn=9f8271a10e5c1fdecd39d5a0f1ab1ccf)
+   * [两代人以后，游牧也许会变成社会的主流形态 - 中国新闻周刊网](http://www.inewsweek.cn/viewpoint/2018-11-13/4329.shtml)
    > 我们的祖先们从树上下来以后，游牧就是最初的生活形态。
    > 两代人以后——对于技术的发展而言就是很久很久以后，也许游牧真的会变成社会的主流形态。所有迹象都显示出向这个方向的生长是可能的。技术对移动办公的支持、中心城市高昂的生活成本、传统公司这种组织形态的慢慢失效、共享办公的越来越普遍、越来越多的人开始关心社区，都是推动力量
+   * [数字游民部落](https://mp.weixin.qq.com/s/uWbrjx85nmyqvXobDsBU-Q)
  * [Remote Work & Digital Nomads Study 2018 - The Anywhere Workers](https://www.and.co/anywhere-workers)
  * [Nomad List - Best Cities to Live and Work Remotely for Digital Nomads](https://nomadlist.com/)
  
