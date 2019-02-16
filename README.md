@@ -6,6 +6,8 @@
 
 * 国家历年来统计数据
 
+* [如何看待“零工经济” - 中国社会科学院经济研究所](http://ie.cass.cn/academics/economic_trends/201712/t20171204_3765916.html)
+
 ## 资源
 
 * [mezod/awesome-indie: Resources for independent developers to make money](https://github.com/mezod/awesome-indie)
