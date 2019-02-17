@@ -41,6 +41,7 @@
 
 * [mezod/awesome-indie: Resources for independent developers to make money](https://github.com/mezod/awesome-indie)
 * [freelancer-tw/awesome-freelancer-taiwan: Freelancer resource in Taiwan. 自在工作者在台灣的資源。](https://github.com/freelancer-tw/awesome-freelancer-taiwan)
+* [价值世界](https://mp.weixin.qq.com/s?__biz=MjM5MTM4MDAwMg==&mid=2650771978&idx=1&sn=77d99ea7aa312dede82c6e4820a0cccd&chksm=bebd554789cadc51ae14699a3ee94a5560d5d66c4df755b06bab50cfee25b3a5cedc85c01f5f&mpshare=1&scene=24&srcid=021739Wm9mDS8axjFZLFCh7c&key=d2ea39f61ee9d6512a47e275a1e7c9fede73c0a3e466053135adbddd28e7c393c317b19ddf2aaabe108c7b9c435753d69c57ecb9049b2d033d06828ff7740c677069416c388ea530d8a21f80fecab447&ascene=0&uin=MjM1MDIwNzk4MQ%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.2+build(16C67)&version=12020610&nettype=WIFI&lang=en&fontScale=100&pass_ticket=c4vLdhA1e%2Fc2CxwxgJYywY7vF8nQmn7c6ajdnWJidpsPnlCmafOnX0c11FDG4pRe)
 * [lukasz-madon/awesome-remote-job: A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python](https://github.com/lukasz-madon/awesome-remote-job)
 
 * [Frie_9780307463746_4p_all_r1.f.qxp](https://s3.amazonaws.com/37assets/svn/Rework-by-Jason-Fried-and-David-Heinemeier-Hansson-Excerpts.pdf)
