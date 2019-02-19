@@ -90,6 +90,10 @@
 - 翻译
 - Youtuber
 
+## 未来的组织
+
+- [未来的组织](https://book.douban.com/subject/1465387/)
+
 ## 个人所在行业信息
 
 
