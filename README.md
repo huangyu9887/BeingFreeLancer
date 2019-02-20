@@ -16,6 +16,7 @@
 * [mezod/awesome-indie: Resources for independent developers to make money](https://github.com/mezod/awesome-indie)
 * https://www.upwork.com/i/freelancing-in-america/2018/
 * https://www.upwork.com/
+* [Upwork CEO 对未来自由职业的5点建议 | Taskcity资讯 | 智城外包网 - 零佣金开发资源平台 认证担保 全程无忧](http://www.taskcity.com/articles/159)
 * [A2](http://www.bjrbj.gov.cn/mtgz/dzyls/dzbzh/201605/P020160505358362460199.pdf)
 * [不能只打一份工 (豆瓣)](https://book.douban.com/subject/6424842/)
  * [作者网站 Heymarci.com](http://heymarci.com/articles/)
