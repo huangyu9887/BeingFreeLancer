@@ -117,6 +117,7 @@
 * [About Freelancers Union 2018 自由职业者联盟](https://www.freelancersunion.org/about/)
 * [自由职业者的现状：为了摆脱束缚，你愿意承受多少焦虑？_36氪](https://36kr.com/p/5141498.html)
 * [远程办公 Remote by 37Signals 中文版 - 文集 - 简书](https://www.jianshu.com/nb/41672)
+* [sideidea独立黑客 － 小专栏](https://xiaozhuanlan.com/sideidea)
 
 * 艾瑞产业研究行业报告
 
