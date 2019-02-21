@@ -112,6 +112,9 @@
 > 中国公立医院改革高层论坛综述
 > 服务供给的核心要素——医生——的管理应与对医院的管理分开，要严格执业医师标准，已经成为执业医师的，应有开业自由，逐渐使医生与医院之间从雇佣关系变成合约>>关系，医生成为类似律师的自由职业者。当前第一步是切实推动医师多点执业。第四，避免过度医疗，只有支付制度改革是不够的，须同时改变收入分配制度。成都医改> 办主任宋剑锋对成都管办分开与完善医院法人治理结构的探索进行了......
 
+* [那些看起来快意恩仇的自由职业者，到底过着怎样的生活？_文化_好奇心日报](https://www.qdaily.com/articles/32226.html)
+* [Five Reasons Half of You Will be Freelancers in 2020](https://www.forbes.com/sites/michakaufman/2014/02/28/five-reasons-half-of-you-will-be-freelancers-in-2020/#62061a0c6d39)
+
 * 艾瑞产业研究行业报告
 
   - 2017年中国共享经济行业及用户研究报告 http://www.iresearch.com.cn/Detail/report?id=3036&isfree=0
