@@ -114,6 +114,7 @@
 
 * [那些看起来快意恩仇的自由职业者，到底过着怎样的生活？_文化_好奇心日报](https://www.qdaily.com/articles/32226.html)
 * [Five Reasons Half of You Will be Freelancers in 2020](https://www.forbes.com/sites/michakaufman/2014/02/28/five-reasons-half-of-you-will-be-freelancers-in-2020/#62061a0c6d39)
+* [About Freelancers Union 2018 自由职业者联盟](https://www.freelancersunion.org/about/)
 
 * 艾瑞产业研究行业报告
 
