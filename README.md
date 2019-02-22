@@ -125,6 +125,8 @@
 
   - 2017年中国共享经济行业及用户研究报告 http://www.iresearch.com.cn/Detail/report?id=3036&isfree=0
   - 2019年中国互联网就业洞察白皮书（企业篇） http://www.iresearch.com.cn/Detail/report?id=3335&isfree=0
+  
+  * [ Marion McGovern 零工经济社区](http://marionmcgovern.com/the-gig-economy-community/links/)
 
 ## 自由职业者
 
