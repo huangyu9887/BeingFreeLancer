@@ -127,6 +127,7 @@
   - 2019年中国互联网就业洞察白皮书（企业篇） http://www.iresearch.com.cn/Detail/report?id=3335&isfree=0
   
   * [ Marion McGovern 零工经济社区](http://marionmcgovern.com/the-gig-economy-community/links/)
+  * [开启自由职业事业的8个必备步骤](http://blog.jobbole.com/559/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
 
 ## 自由职业者
 
@@ -214,5 +215,6 @@
 
 # CHANGELOG
 
+- 20190319 增补
 - 20190220 增补
 - 20190216 init
